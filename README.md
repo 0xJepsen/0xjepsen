@@ -35,3 +35,5 @@ I love python, Linux, rust, and cryptography. If you share any of these interest
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1218873725&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
+![](https://img.shields.io/github/last-commit/0xjepsen/0xjepsen)
