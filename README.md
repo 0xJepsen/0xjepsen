@@ -1,4 +1,4 @@
-### Hello, I'm Waylon 👋
+### Hello, I'm Waylon 👋https://dev.to/0xjepsen/python-vs-c-4ho6)
 
 I am currently a Masters’s candidate studying computer science at Colorado State University. After completing my bachelor’s degree in Mathematics and Philosophy, I was employed as a cybersecurity intern by the academic computing and networking services at CSU. I quickly developed a deep passion for cybersecurity and computer science and decided to go back to school to learn more.
 
@@ -17,6 +17,7 @@ I love python, Linux, rust, and cryptography. If you share any of these interest
 
 ## My Recent Articles 
 
+- [Python vs C](https://dev.to/0xjepsen/python-vs-c-4ho6)
 - [Demystifying Artificial Intelligence](https://dev.to/0xjepsen/demystifying-artificial-intelligence-1egf)
 - [Cryptography in Distributed Ledgers](https://dev.to/0xjepsen/an-introduction-to-cryptography-in-distributed-ledger-technology-268l)
 
