@@ -6,9 +6,11 @@ While studying for my master’s, I have been employed as a Junior Systems Admin
 
 I love python, Linux, rust, and cryptography. If you share any of these interests, don’t hesitate to reach out. I look forward to sharing my technical experiences with all of you hear and learn from the community. Thanks for reading :)
 
+I am recently very deep into learning about MEV (Miner Extractable Value) and flashbots.
+
 - 🔭 I’m currently working on Migrating NIS servers to LDAP
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
-- 👯 I’m looking to collaborate on [Hedera Hashgraph](www.hedera.com)
+- 👯 I’m looking to collaborate on [Flashbots](https://github.com/flashbots)
 - 🤔 I’m looking for help with Rust
 - 💬 Ask me about Distribute Ledgers and Cryptography
 - 📫 How to reach me: You can email me [here](mailto:waylonjepsen1@gmail.com) or dm me on twitter [here](https://twitter.com/HogwoodWaylon)
@@ -36,8 +38,6 @@ I love python, Linux, rust, and cryptography. If you share any of these interest
 ## Statistics
 
 ![0xjepsen's Github Stats](https://github-readme-stats.vercel.app/api?username=0xjepsen&count_private=true&theme=tokyonight&hide=contribs,prs)
-
-## Other Stuff
 
 [comment]:<[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1218873725&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)>
 
