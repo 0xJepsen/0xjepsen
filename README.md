@@ -19,6 +19,7 @@ I am recently very deep into learning about MEV (Miner Extractable Value) and fl
 
 ## My Recent Articles 
 
+- [Custodial vs Non-custodial Wallets in DLT](https://dev.to/0xjepsen/custodial-vs-non-custodial-wallets-in-dlt-3jb5)
 - [Python vs C](https://dev.to/0xjepsen/python-vs-c-4ho6)
 - [Demystifying Artificial Intelligence](https://dev.to/0xjepsen/demystifying-artificial-intelligence-1egf)
 - [Cryptography in Distributed Ledgers](https://dev.to/0xjepsen/an-introduction-to-cryptography-in-distributed-ledger-technology-268l)
