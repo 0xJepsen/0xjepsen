@@ -19,6 +19,7 @@ I am recently very deep into learning about MEV (Miner Extractable Value) and [F
 
 ## My Recent Articles 
 
+- [What is a Merkle Tree](https://dev.to/0xjepsen/what-is-a-merkle-tree-2kc5)
 - [Common Terms In Web3](https://dev.to/0xjepsen/common-terms-in-web3-5g9h)
 - [Custodial vs Non-custodial Wallets in DLT](https://dev.to/0xjepsen/custodial-vs-non-custodial-wallets-in-dlt-3jb5)
 - [Python vs C](https://dev.to/0xjepsen/python-vs-c-4ho6)
