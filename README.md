@@ -8,10 +8,9 @@ I love python, Linux, rust, and cryptography. If you share any of these interest
 
 I am recently very deep into learning about MEV (Miner Extractable Value) and [Flashbots](https://github.com/flashbots/pm).
 
-- 🔭 I’m currently working on Migrating NIS servers to LDAP
+- 🔭 I’m currently working on [Tropical Algebra Modeling of TCP congestion](https://doi-org.ezproxy2.library.colostate.edu/10.1145/347059.347548)
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
 - 👯 I’m looking to collaborate on [Flashbots](https://github.com/flashbots)
-- 🤔 I’m looking for help with Rust
 - 💬 Ask me about Distribute Ledgers and Cryptography
 - 📫 How to reach me: You can email me [here](mailto:waylonjepsen1@gmail.com) or dm me on twitter [here](https://twitter.com/HogwoodWaylon)
 - 😄 Pronouns: He/Him
