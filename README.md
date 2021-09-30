@@ -1,6 +1,6 @@
 ### Hello, I'm Waylon 👋
 
-I am currently a Masters’s candidate studying computer science at Colorado State University. After completing my bachelor’s degree in Mathematics and Philosophy, I was employed as a cybersecurity intern by the academic computing and networking services at CSU. I quickly developed a deep passion for cybersecurity and computer science and decided to go back to school to learn more.
+I’m a computer scientist working part time at Hedera. I have a background in mathematics and philosophy. My research is on tropical algebras modeling TCP packet congesting and CRC codes.
 
 While studying for my master’s, I have been employed as a Junior Systems Administrator for the Computer Science department, managing over 600 Unix machines. This summer, I am also working for Hedera Hashgraph as a developer advocate intern providing educational content on leveraging the Hashgraph distributed network.
 
