@@ -6,8 +6,6 @@ While studying for my master’s, I have been employed as a Junior Systems Admin
 
 I love python, Linux, rust, and cryptography. If you share any of these interests, don’t hesitate to reach out. I look forward to sharing my technical experiences with all of you hear and learn from the community. Thanks for reading :)
 
-I am recently very deep into learning about MEV (Miner Extractable Value) and [Flashbots](https://github.com/flashbots/pm).
-
 - 🔭 I’m currently working on [Tropical Algebra Modeling of TCP congestion](https://doi-org.ezproxy2.library.colostate.edu/10.1145/347059.347548)
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
 - 👯 I’m looking to collaborate on tropical algebra research. 
