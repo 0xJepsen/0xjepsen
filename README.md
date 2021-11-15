@@ -1,17 +1,15 @@
-### Hello, I'm Waylon 👋
+### Hello, I'm Waylon
 
-I’m a computer scientist working part time at Hedera. I have a background in mathematics and philosophy. My research is on tropical algebras modeling TCP packet congesting and CRC codes.
+I’m a computer scientist working part time at Hedera. My Research intrests lay at the intersection of mathemtics, computer science, and philosophy. 
 
-While studying for my master’s, I have been employed as a Junior Systems Administrator for the Computer Science department, managing over 600 Unix machines. This summer, I am also working for Hedera Hashgraph as a developer advocate intern providing educational content on leveraging the Hashgraph distributed network.
+My previous papers have been on the performance of Cyclic codes for error detection, and max-plus algebraic modeling of TCP congestion. 
 
-I love python, Linux, rust, and cryptography. If you share any of these interests, don’t hesitate to reach out. I look forward to sharing my technical experiences with all of you. Thanks for reading :)
+I love python, Linux, rust, and cryptography. If you share any of these interests, don’t hesitate to reach out. 
 
 - 🔭 I’m currently working on [Tropical Algebra Modeling of TCP congestion](https://doi-org.ezproxy2.library.colostate.edu/10.1145/347059.347548)
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
-- 👯 I’m looking to collaborate on tropical algebra research. 
 - 💬 Ask me about Distribute Ledgers and Cryptography
 - 📫 How to reach me: You can email me [here](mailto:waylonjepsen1@gmail.com) or dm me on twitter [here](https://twitter.com/HogwoodWaylon)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I grew up off-the-grid for the first 13 years of my life
 
 ## My Recent Articles 
