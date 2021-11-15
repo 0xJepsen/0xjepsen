@@ -1,6 +1,6 @@
 ### Hello, I'm Waylon
 
-I’m a computer scientist working part time at Hedera. My Research intrests lay at the intersection of mathemtics, computer science, and philosophy. 
+I’m a computer scientist working part time at Hedera. My research intrests lay at the intersection of mathemtics, computer science, and philosophy. 
 
 My previous papers have been on the performance of Cyclic codes for error detection, and max-plus algebraic modeling of TCP congestion. 
 
