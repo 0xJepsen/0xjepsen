@@ -1,10 +1,10 @@
 ### Hello, I'm Waylon
 
-I’m a computer scientist working part time at Hedera. My research intrests lay at the intersection of mathemtics, computer science, and philosophy. 
+I’m a computer scientist working part-time at Hedera. My research interests lay at the intersection of mathematics, computer science, and philosophy.
 
-My previous papers have been on the performance of Cyclic codes for error detection, and max-plus algebraic modeling of TCP congestion. 
+My previous papers have been on the performance of Cyclic codes for error detection and max-plus algebraic modeling of TCP congestion.
 
-I love python, Linux, rust, and cryptography. If you share any of these interests, don’t hesitate to reach out. 
+I love python, Linux, rust, and cryptography. If you share any of these interests, don’t hesitate to reach out. out. 
 
 - 🔭 I’m currently working on [Tropical Algebra Modeling of TCP congestion](https://doi-org.ezproxy2.library.colostate.edu/10.1145/347059.347548)
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
