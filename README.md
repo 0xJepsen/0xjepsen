@@ -4,6 +4,8 @@ I’m a computer scientist working part-time at Hedera. My research interests la
 
 My previous papers have been on the performance of Cyclic codes for error detection and max-plus algebraic modeling of TCP congestion.
 
+I am currently working on documentating hedera's support for the EThereum Virtual Machine(EVM) and educating EVM developers on how to deploy their Smart Contracts to Hedera.
+
 I love python, Linux, rust, and cryptography. If you share any of these interests, don’t hesitate to reach out. out. 
 
 - 🔭 I’m currently working on [Tropical Algebra Modeling of TCP congestion](https://doi-org.ezproxy2.library.colostate.edu/10.1145/347059.347548)
