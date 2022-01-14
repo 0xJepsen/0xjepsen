@@ -10,7 +10,7 @@ I love python, Linux, rust, and cryptography. If you share any of these interest
 
 - 🔭 I’m currently working on [Tropical Algebra Modeling of TCP congestion](https://doi-org.ezproxy2.library.colostate.edu/10.1145/347059.347548)
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
-- 💬 Ask me about Distribute Ledgers and Cryptography
+- 💬 Ask me about Cryptography
 - 📫 How to reach me: You can email me [here](mailto:waylonjepsen1@gmail.com) or dm me on twitter [here](https://twitter.com/HogwoodWaylon)
 - ⚡ Fun fact: I grew up off-the-grid for the first 13 years of my life
 
