@@ -16,6 +16,7 @@ I love python, Linux, rust, and cryptography. If you share any of these interest
 
 ## My Recent Articles 
 
+- [Introduction to Solidity](https://www.hedera.com/blog/introduction-solidity-smart-contracts)
 - [How to Deploy Cost Effective Smart Contraacts](https://dev.to/0xjepsen/how-to-deploy-cost-effective-smart-contracts-3a3l)
 - [Layer 1 vs Layer 2](https://dev.to/0xjepsen/layer-1-vs-layer-2-15kf)
 - [What is a Smart Contract](https://dev.to/0xjepsen/what-are-smart-contracts-16ai)
