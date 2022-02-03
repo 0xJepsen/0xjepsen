@@ -6,7 +6,9 @@ My previous papers have been on the performance of Cyclic codes for error detect
 
 I am currently working on documentating hedera's support for the EThereum Virtual Machine(EVM) and educating EVM developers on how to deploy their Smart Contracts to Hedera.
 
-I love python, Linux, rust, and cryptography. If you share any of these interests, don’t hesitate to reach out. out. 
+I love python, Linux, rust, and cryptography. If you share any of these interests, don’t hesitate to reach out. out.
+
+In the academic world I work on Zero Knowledge Cryptogrraphic primitives, and consensus stability of Distributed Ledgers.
 
 - 🔭 I’m currently working on [Tropical Algebra Modeling of TCP congestion](https://doi-org.ezproxy2.library.colostate.edu/10.1145/347059.347548)
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
