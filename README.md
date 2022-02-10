@@ -14,7 +14,7 @@ In the academic world I work on Zero Knowledge Cryptogrraphic primitives, and co
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
 - 💬 Ask me about Cryptography
 - 📫 How to reach me: You can email me [here](mailto:waylonjepsen1@gmail.com) or dm me on twitter [here](https://twitter.com/HogwoodWaylon)
-- ⚡ Fun fact: I grew up off-the-grid in a Tibetan Budhist community for the first 13 years of my life. The tibetan lineage was [Nyingma](https://www.rigpawiki.org/index.php?title=Nyingma)
+- ⚡ Fun fact: I grew up off-the-grid in a Tibetan Budhist community for the first 13 years of my life. The lineage was the [Nyingma](https://www.rigpawiki.org/index.php?title=Nyingma) school of thought. 
 
 ## My Recent Articles 
 
