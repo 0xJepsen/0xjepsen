@@ -4,7 +4,7 @@ I’m a computer scientist working part-time at Hedera. My research interests la
 
 My previous papers have been on the performance of Cyclic codes for error detection and max-plus algebraic modeling of TCP congestion.
 
-I am currently working on documentating hedera's support for the EThereum Virtual Machine(EVM) and educating EVM developers on how to deploy their Smart Contracts to Hedera.
+I am currently working on documenting hedera's support for the EThereum Virtual Machine(EVM) and educating EVM developers on how to deploy their Smart Contracts to Hedera.
 
 I love python, Linux, rust, and cryptography. If you share any of these interests, don’t hesitate to reach out. out.
 
@@ -14,7 +14,7 @@ In the academic world I work on Zero Knowledge Cryptogrraphic primitives, and co
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
 - 💬 Ask me about Cryptography
 - 📫 How to reach me: You can email me [here](mailto:waylonjepsen1@gmail.com) or dm me on twitter [here](https://twitter.com/HogwoodWaylon)
-- ⚡ Fun fact: I grew up off-the-grid for the first 13 years of my life
+- ⚡ Fun fact: I grew up off-the-grid in a Tibetan Budhist community for the first 13 years of my life. The tibetan lineage was [Nyingma](https://www.rigpawiki.org/index.php?title=Nyingma)
 
 ## My Recent Articles 
 
