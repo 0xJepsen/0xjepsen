@@ -11,7 +11,7 @@ I love python, Linux, rust, and cryptography. If you share any of these interest
 In the academic world I work on Zero Knowledge Cryptogrraphic primitives, and consensus stability of Distributed Ledgers.
 
 - 🔭 I’m currently working on [Tropical Algebra Modeling of TCP congestion](https://doi-org.ezproxy2.library.colostate.edu/10.1145/347059.347548)
-- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
+- 🌱 I’m currently learning about [RMMs](https://arxiv.org/pdf/2103.14769.pdf)
 - 💬 Ask me about Cryptography
 - 📫 How to reach me: You can email me [here](mailto:waylonjepsen1@gmail.com) or dm me on twitter [here](https://twitter.com/HogwoodWaylon)
 - ⚡ Fun fact: I grew up off-the-grid in a Tibetan Budhist community for the first 13 years of my life. The lineage was the [Nyingma](https://www.rigpawiki.org/index.php?title=Nyingma) school of thought. 
