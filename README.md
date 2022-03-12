@@ -1,4 +1,4 @@
-### Hello, I'm Waylon
+### Hello, I'm 0xJepsen
 
 I’m a computer scientist working part-time at Hedera. My research interests lay at the intersection of mathematics, computer science, and philosophy.
 
