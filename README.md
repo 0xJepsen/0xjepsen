@@ -1,6 +1,6 @@
 ### Hello, I'm 0xJepsen
 
-I’m a computer scientist working part-time at Hedera. My research interests lay at the intersection of mathematics, computer science, and philosophy.
+I’m a computer scientist working on Replicating Automated Market Makers. My research interests lay at the intersection of mathematics, computer science, and philosophy.
 
 My previous papers have been on the performance of Cyclic codes for error detection and max-plus algebraic modeling of TCP congestion.
 
