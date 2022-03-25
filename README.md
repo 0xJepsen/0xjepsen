@@ -32,9 +32,8 @@ In the academic world I work on Zero Knowledge Cryptogrraphic primitives, and co
 
 ## Find me Online
 
-- [twitter](https://twitter.com/0xjepsen)
+- [Twitter](https://twitter.com/0xjepsen)
 - [Spotify](https://open.spotify.com/user/1218873725?si=dae5e3b67ac04c34)
-- [LinkedIn](https://www.linkedin.com/in/waylon-jepsen-854333117/)
 - [Lets Play GO](https://online-go.com/player/906330/)
 
 ## Statistics
