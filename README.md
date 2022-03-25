@@ -13,7 +13,7 @@ In the academic world I work on Zero Knowledge Cryptogrraphic primitives, and co
 - 🔭 I’m currently working on [Tropical Algebra Modeling of TCP congestion](https://doi-org.ezproxy2.library.colostate.edu/10.1145/347059.347548)
 - 🌱 I’m currently learning about [RMMs](https://arxiv.org/pdf/2103.14769.pdf)
 - 💬 Ask me about Cryptography
-- 📫 How to reach me: You can email me [here](mailto:waylonjepsen1@gmail.com) or dm me on twitter [here](https://twitter.com/HogwoodWaylon)
+- 📫 How to reach me: You can email me [here](mailto:waylonjepsen1@gmail.com) or dm me on twitter [here](https://twitter.com/0xjepsen)
 - ⚡ Fun fact: I grew up off-the-grid in a Tibetan Budhist community for the first 13 years of my life. The lineage was the [Nyingma](https://www.rigpawiki.org/index.php?title=Nyingma) school of thought. 
 
 ## My Recent Articles 
@@ -32,10 +32,9 @@ In the academic world I work on Zero Knowledge Cryptogrraphic primitives, and co
 
 ## Find me Online
 
+- [twitter](https://twitter.com/0xjepsen)
 - [Spotify](https://open.spotify.com/user/1218873725?si=dae5e3b67ac04c34)
 - [LinkedIn](https://www.linkedin.com/in/waylon-jepsen-854333117/)
-- [dev.to](https://dev.to/0xjepsen)
-- [hashnode](https://hashnode.com/@0xJepsen)
 - [Lets Play GO](https://online-go.com/player/906330/)
 
 ## Statistics
