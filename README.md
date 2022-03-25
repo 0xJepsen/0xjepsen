@@ -38,10 +38,6 @@ In the academic world I work on Zero Knowledge Cryptogrraphic primitives, and co
 - [hashnode](https://hashnode.com/@0xJepsen)
 - [Lets Play GO](https://online-go.com/player/906330/)
 
-## My Skills
-
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black)![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)![](https://img.shields.io/badge/Java_Script-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)![](https://img.shields.io/badge/Let's_Encryptt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white)![](https://img.shields.io/badge/Type_Script-3178C6?style=for-the-badge&logo=typescript&logoColor=white)![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)![](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)![](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)![](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)![](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)![](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)![](https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=white)![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
 ## Statistics
 
 ![0xjepsen's Github Stats](https://github-readme-stats.vercel.app/api?username=0xjepsen&count_private=true&theme=tokyonight&hide=contribs,prs)
