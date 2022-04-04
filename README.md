@@ -14,7 +14,7 @@ In the academic world I work on Zero Knowledge Cryptogrraphic primitives, and co
 
 ## My Papers
 
-- [Cyclic_Redundancy_Checks_and_Error_Detection](https://github.com/0xJepsen/CRC_Research/blob/master/Cyclic_Redundancy_Checks_and_Error_Detection.pdf)
+- [Cyclic Redundancy Checks and Error Detection](https://github.com/0xJepsen/CRC_Research/blob/master/Cyclic_Redundancy_Checks_and_Error_Detection.pdf)
 
 ## My Recent Articles 
 
