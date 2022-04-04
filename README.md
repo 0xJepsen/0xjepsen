@@ -11,6 +11,8 @@ My previous work have been on the performance of Cyclic codes for error detectio
 ## Talks/Videos
 
 - [Introduction to MEV and open research questions](https://www.youtube.com/watch?v=JEnRl-rAgZs&t=803s)
+- [How to use custom fees on Hedera with JavaScript pt. 1](https://www.youtube.com/watch?v=6GPzlQ7cCe0&list=PLcaTa5RR9SuA__8rzCKru8Y_F6iMJPEUD&index=7)
+- [How to use custom fees on Hedera with JavaScript pt. 2](https://www.youtube.com/watch?v=uQSe98Bzwbc&list=PLcaTa5RR9SuA__8rzCKru8Y_F6iMJPEUD&index=6)
 
 ## Papers
 
