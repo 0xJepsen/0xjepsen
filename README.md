@@ -27,12 +27,6 @@ My previous work have been on the performance of Cyclic codes for error detectio
 - [Custodial vs Non-custodial Wallets in DLT](https://dev.to/0xjepsen/custodial-vs-non-custodial-wallets-in-dlt-3jb5)
 - [Cryptography in Distributed Ledgers](https://dev.to/0xjepsen/an-introduction-to-cryptography-in-distributed-ledger-technology-268l)
 
-## Find me Online
-
-- [Twitter](https://twitter.com/0xjepsen)
-- [Spotify](https://open.spotify.com/user/1218873725?si=dae5e3b67ac04c34)
-- [GO](https://online-go.com/player/906330/)
-
 ## Statistics
 
 ![0xjepsen's Github Stats](https://github-readme-stats.vercel.app/api?username=0xjepsen&count_private=true&theme=tokyonight&hide=contribs,prs)
