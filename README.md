@@ -12,6 +12,10 @@ In the academic world I work on Zero Knowledge Cryptogrraphic primitives, and co
 - 🌱 I’m currently learning about [RMMs](https://arxiv.org/pdf/2103.14769.pdf)
 - ⚡ Fun fact: I grew up off-the-grid in a Tibetan Budhist community for the first 13 years of my life. The lineage was the [Nyingma](https://www.rigpawiki.org/index.php?title=Nyingma) school of thought. 
 
+## My Papers
+
+- [Cyclic_Redundancy_Checks_and_Error_Detection](https://github.com/0xJepsen/CRC_Research/blob/master/Cyclic_Redundancy_Checks_and_Error_Detection.pdf)
+
 ## My Recent Articles 
 
 - [Introduction to Solidity](https://www.hedera.com/blog/introduction-solidity-smart-contracts)
