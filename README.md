@@ -20,6 +20,7 @@ My previous work have been on the performance of Cyclic codes for error detectio
 
 ## Recent Articles 
 
+- [Joining Primitive](https://website-git-blog-jepsen-primitivexyz.vercel.app/blog/jepsen)
 - [How to Deploy Smart Contracts on Hedera](https://dev.to/0xjepsen/how-to-deploy-cost-effective-smart-contracts-3a3l)
 - [Layer 1 vs Layer 2](https://dev.to/0xjepsen/layer-1-vs-layer-2-15kf)
 - [What is a Smart Contract](https://dev.to/0xjepsen/what-are-smart-contracts-16ai)
