@@ -4,8 +4,7 @@ I’m a computer scientist passionate about high impact technology. My research 
 
 My previous work have been on the performance of Cyclic codes for error detection, max-plus algebraic modeling of TCP congestion, and modeling financial primitives in defi.
 
-- I’m currently working on simulations for [Tropical Algebraic Modeling of TCP congestion](https://github.com/0xJepsen/Max-PlusTCPModel), 
-- I’m currently learning about [RMMs](https://arxiv.org/pdf/2103.14769.pdf)
+- I’m currently working on simulations for [Tropical Algebraic Modeling of TCP congestion](https://github.com/0xJepsen/Max-PlusTCPModel), and building financial derivatives from [RMMs](https://arxiv.org/pdf/2103.14769.pdf).
 - I grew up off-the-grid in a Tibetan Budhist community for the first 13 years of my life. The lineage was the [Nyingma](https://www.rigpawiki.org/index.php?title=Nyingma) school of thought. 
 
 ## Papers
