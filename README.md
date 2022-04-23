@@ -34,7 +34,5 @@ My previous work have been on the performance of Cyclic codes for error detectio
 
 ![0xjepsen's Github Stats](https://github-readme-stats.vercel.app/api?username=0xjepsen&count_private=true&theme=tokyonight&hide=contribs,prs)
 
-[comment]:<[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1218873725&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)>
-
 ![](https://img.shields.io/github/last-commit/0xjepsen/0xjepsen)![](https://visitor-badge.laobi.icu/badge?page_id=0xjepsen)
 
