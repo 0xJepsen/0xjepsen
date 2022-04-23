@@ -4,9 +4,13 @@ I’m a computer scientist passionate about high impact technology. My research 
 
 My previous work have been on the performance of Cyclic codes for error detection, max-plus algebraic modeling of TCP congestion, and modeling financial primitives in defi.
 
-- 🔭 I’m currently working on [Tropical Algebra Modeling of TCP congestion](https://github.com/0xJepsen/Max-PlusTCPModel), 
-- 🌱 I’m currently learning about [RMMs](https://arxiv.org/pdf/2103.14769.pdf)
-- ⚡ Fun fact: I grew up off-the-grid in a Tibetan Budhist community for the first 13 years of my life. The lineage was the [Nyingma](https://www.rigpawiki.org/index.php?title=Nyingma) school of thought. 
+- I’m currently working on simulations for [Tropical Algebraic Modeling of TCP congestion](https://github.com/0xJepsen/Max-PlusTCPModel), 
+- I’m currently learning about [RMMs](https://arxiv.org/pdf/2103.14769.pdf)
+- Fun fact: I grew up off-the-grid in a Tibetan Budhist community for the first 13 years of my life. The lineage was the [Nyingma](https://www.rigpawiki.org/index.php?title=Nyingma) school of thought. 
+
+## Papers
+
+- [Cyclic Redundancy Checks and Error Detection](https://github.com/0xJepsen/CRC_Research/blob/master/Cyclic_Redundancy_Checks_and_Error_Detection.pdf)
 
 ## Talks/Videos
 
@@ -14,25 +18,17 @@ My previous work have been on the performance of Cyclic codes for error detectio
 - [How to use custom fees on Hedera with JavaScript pt. 1](https://www.youtube.com/watch?v=6GPzlQ7cCe0&list=PLcaTa5RR9SuA__8rzCKru8Y_F6iMJPEUD&index=7)
 - [How to use custom fees on Hedera with JavaScript pt. 2](https://www.youtube.com/watch?v=uQSe98Bzwbc&list=PLcaTa5RR9SuA__8rzCKru8Y_F6iMJPEUD&index=6)
 
-## Papers
-
-- [Cyclic Redundancy Checks and Error Detection](https://github.com/0xJepsen/CRC_Research/blob/master/Cyclic_Redundancy_Checks_and_Error_Detection.pdf)
-
-## Recent Articles 
+## Articles 
 
 - [Joining Primitive](https://website-git-blog-jepsen-primitivexyz.vercel.app/blog/jepsen)
 - [How to Deploy Smart Contracts on Hedera](https://dev.to/0xjepsen/how-to-deploy-cost-effective-smart-contracts-3a3l)
-- [Layer 1 vs Layer 2](https://dev.to/0xjepsen/layer-1-vs-layer-2-15kf)
-- [What is a Smart Contract](https://dev.to/0xjepsen/what-are-smart-contracts-16ai)
 - [How to Mint an NFT in JavaScript](https://dev.to/0xjepsen/how-to-mint-an-nft-with-javascript-2nci)
 - [What is a Merkle Tree](https://dev.to/0xjepsen/what-is-a-merkle-tree-2kc5)
 - [Common Terms In Web3](https://dev.to/0xjepsen/common-terms-in-web3-5g9h)
 - [Custodial vs Non-custodial Wallets in DLT](https://dev.to/0xjepsen/custodial-vs-non-custodial-wallets-in-dlt-3jb5)
 - [Cryptography in Distributed Ledgers](https://dev.to/0xjepsen/an-introduction-to-cryptography-in-distributed-ledger-technology-268l)
 
-## Statistics
-
-![0xjepsen's Github Stats](https://github-readme-stats.vercel.app/api?username=0xjepsen&count_private=true&theme=tokyonight&hide=contribs,prs)
-
-![](https://img.shields.io/github/last-commit/0xjepsen/0xjepsen)![](https://visitor-badge.laobi.icu/badge?page_id=0xjepsen)
+![](https://img.shields.io/github/stars/0xjepsen?style=social)
+![](https://img.shields.io/github/last-commit/0xjepsen/0xjepsen)
+![](https://visitor-badge.laobi.icu/badge?page_id=0xjepsen)
 
