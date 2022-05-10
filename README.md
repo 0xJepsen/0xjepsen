@@ -10,11 +10,6 @@ I’m a computer scientist passionate about high impact technology. My research 
 - [Cyclic Redundancy Checks and Error Detection](https://github.com/0xJepsen/CRC_Research/blob/master/Cyclic_Redundancy_Checks_and_Error_Detection.pdf)
 - [Modeling TCP congesting with Tropical Algebra](https://github.com/0xJepsen/Max-PlusTCPModel/blob/master/Modeling_TCP_Congestion_with_Tropical_Algebra.pdf)
 
-## Talks/Videos
-
-- [Introduction to MEV and open research questions](https://www.youtube.com/watch?v=JEnRl-rAgZs&t=803s)
-- [How to use custom fees on Hedera with JavaScript pt. 1](https://www.youtube.com/watch?v=6GPzlQ7cCe0&list=PLcaTa5RR9SuA__8rzCKru8Y_F6iMJPEUD&index=7)
-- [How to use custom fees on Hedera with JavaScript pt. 2](https://www.youtube.com/watch?v=uQSe98Bzwbc&list=PLcaTa5RR9SuA__8rzCKru8Y_F6iMJPEUD&index=6)
 
 ## Articles, Blogs, and lower case r research 
 
