@@ -5,6 +5,14 @@ I’m a computer scientist passionate about high impact technology. My research 
 - I’m currently working on simulations for [Tropical Algebraic Modeling of TCP congestion](https://github.com/0xJepsen/Max-PlusTCPModel), and building financial derivatives from [RMMs](https://arxiv.org/pdf/2103.14769.pdf).
 - I grew up off-the-grid in a Tibetan Budhist community for the first 13 years of my life. The lineage was the [Nyingma](https://www.rigpawiki.org/index.php?title=Nyingma) school of thought. 
 
+## Education
+
+BS - Mathematics and Philosophy 
+
+MS - Computer Science Advised By [Dr. Craig Partridge](https://scholar.google.com/citations?user=f-E5nFEAAAAJ&hl=en&oi=ao) Anticipated Completion Summer 2022
+  - Evaluated the performance of unique generator polynomials for cyclic error detection
+  - Evaluated the performance of tropical algebraic models for TCP and identified key assumptions and produced theoretical improvments
+
 ## Capital R Research
 
 - [Cyclic Redundancy Checks and Error Detection](https://github.com/0xJepsen/CRC_Research/blob/master/Cyclic_Redundancy_Checks_and_Error_Detection.pdf)
