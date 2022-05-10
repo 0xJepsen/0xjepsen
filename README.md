@@ -23,10 +23,7 @@ MS - Computer Science Advised By [Dr. Craig Partridge](https://scholar.google.co
 
 - [Joining Primitive](https://website-git-blog-jepsen-primitivexyz.vercel.app/blog/jepsen)
 - [How to Deploy Smart Contracts on Hedera](https://dev.to/0xjepsen/how-to-deploy-cost-effective-smart-contracts-3a3l)
-- [How to Mint an NFT in JavaScript](https://dev.to/0xjepsen/how-to-mint-an-nft-with-javascript-2nci)
 - [What is a Merkle Tree](https://dev.to/0xjepsen/what-is-a-merkle-tree-2kc5)
-- [Common Terms In Web3](https://dev.to/0xjepsen/common-terms-in-web3-5g9h)
-- [Custodial vs Non-custodial Wallets in DLT](https://dev.to/0xjepsen/custodial-vs-non-custodial-wallets-in-dlt-3jb5)
 - [Cryptography in Distributed Ledgers](https://dev.to/0xjepsen/an-introduction-to-cryptography-in-distributed-ledger-technology-268l)
 
 ![](https://img.shields.io/github/stars/0xjepsen?style=social)
