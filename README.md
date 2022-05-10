@@ -5,9 +5,10 @@ I’m a computer scientist passionate about high impact technology. My research 
 - I’m currently working on simulations for [Tropical Algebraic Modeling of TCP congestion](https://github.com/0xJepsen/Max-PlusTCPModel), and building financial derivatives from [RMMs](https://arxiv.org/pdf/2103.14769.pdf).
 - I grew up off-the-grid in a Tibetan Budhist community for the first 13 years of my life. The lineage was the [Nyingma](https://www.rigpawiki.org/index.php?title=Nyingma) school of thought. 
 
-## Papers
+## Capital R Research
 
 - [Cyclic Redundancy Checks and Error Detection](https://github.com/0xJepsen/CRC_Research/blob/master/Cyclic_Redundancy_Checks_and_Error_Detection.pdf)
+- [Modeling TCP congesting with Tropical Algebra](https://github.com/0xJepsen/Max-PlusTCPModel/blob/master/Modeling_TCP_Congestion_with_Tropical_Algebra.pdf)
 
 ## Talks/Videos
 
@@ -15,7 +16,7 @@ I’m a computer scientist passionate about high impact technology. My research 
 - [How to use custom fees on Hedera with JavaScript pt. 1](https://www.youtube.com/watch?v=6GPzlQ7cCe0&list=PLcaTa5RR9SuA__8rzCKru8Y_F6iMJPEUD&index=7)
 - [How to use custom fees on Hedera with JavaScript pt. 2](https://www.youtube.com/watch?v=uQSe98Bzwbc&list=PLcaTa5RR9SuA__8rzCKru8Y_F6iMJPEUD&index=6)
 
-## Articles 
+## Articles, Blogs, and lower case r research 
 
 - [Joining Primitive](https://website-git-blog-jepsen-primitivexyz.vercel.app/blog/jepsen)
 - [How to Deploy Smart Contracts on Hedera](https://dev.to/0xjepsen/how-to-deploy-cost-effective-smart-contracts-3a3l)
