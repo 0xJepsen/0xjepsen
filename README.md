@@ -23,7 +23,6 @@ MS - Computer Science Advised By [Dr. Craig Partridge](https://scholar.google.co
 
 - [Joining Primitive](https://website-git-blog-jepsen-primitivexyz.vercel.app/blog/jepsen)
 - [How to Deploy Smart Contracts on Hedera](https://dev.to/0xjepsen/how-to-deploy-cost-effective-smart-contracts-3a3l)
-- [What is a Merkle Tree](https://dev.to/0xjepsen/what-is-a-merkle-tree-2kc5)
 - [Cryptography in Distributed Ledgers](https://dev.to/0xjepsen/an-introduction-to-cryptography-in-distributed-ledger-technology-268l)
 
 ![](https://img.shields.io/github/stars/0xjepsen?style=social)
