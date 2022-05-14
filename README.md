@@ -2,7 +2,8 @@
 
 I’m a computer scientist passionate about high impact technology. My research interests lay at the intersection of mathematics, computer science, and philosophy. I value work ethic and tenacity above all else.
 
-- I’m currently working on simulations for [Tropical Algebraic Modeling of TCP congestion](https://github.com/0xJepsen/Max-PlusTCPModel), and building financial derivatives from [RMMs](https://arxiv.org/pdf/2103.14769.pdf).
+- I’m currently working on building financial derivatives from [RMMs](https://arxiv.org/pdf/2103.14769.pdf).
+- Next up is theta vault simulations using the resulting paper ^
 - I grew up off-the-grid in a Tibetan Budhist community for the first 13 years of my life. The lineage was the [Nyingma](https://www.rigpawiki.org/index.php?title=Nyingma) school of thought. 
 
 ## Education
