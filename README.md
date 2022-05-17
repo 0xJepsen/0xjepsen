@@ -10,8 +10,8 @@ I’m a computer scientist passionate about high impact technology. My research 
 BS - Mathematics and Philosophy 
 
 MS - Computer Science Advised By [Dr. Craig Partridge](https://scholar.google.com/citations?user=f-E5nFEAAAAJ&hl=en&oi=ao)
-  - Evaluated the performance of unique generator polynomials for cyclic error detection
-  - Evaluated the performance of tropical algebraic models for TCP and identified key assumptions and produced theoretical improvments
+  - 🔎 Evaluated the performance of unique generator polynomials for cyclic error detection
+  - 📦 Evaluated the performance of tropical algebraic models for TCP and identified key assumptions and produced theoretical improvments
 
 ## Capital R Research
 
