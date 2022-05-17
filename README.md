@@ -13,6 +13,8 @@ MS - Computer Science Advised By [Dr. Craig Partridge](https://scholar.google.co
   - 🔎 Evaluated the performance of unique generator polynomials for cyclic error detection
   - 📦 Evaluated the performance of tropical algebraic models for TCP and identified key assumptions and produced theoretical improvments
 
+I am Currently studying for my Doctoral Degree under Dr [Amani Altarawneh](https://scholar.google.com/citations?user=CfjaUOsAAAAJ&hl=en) investigating the economic activity in distributed ledgers. 
+
 ## Capital R Research
 
 - 🚴 [Cyclic Redundancy Checks and Error Detection](https://github.com/0xJepsen/CRC_Research/blob/master/Cyclic_Redundancy_Checks_and_Error_Detection.pdf)
