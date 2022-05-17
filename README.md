@@ -2,7 +2,7 @@
 
 I’m a computer scientist passionate about high impact technology. My research interests lay at the intersection of mathematics, computer science, and philosophy. I value work ethic and tenacity above all else.
 
-- I’m currently working on building financial derivatives from [RMMs](https://arxiv.org/pdf/2103.14769.pdf).
+- 🏦 I’m currently working on building financial derivatives from [RMMs](https://arxiv.org/pdf/2103.14769.pdf).
 - I grew up off-the-grid in a Tibetan Budhist community for the first 13 years of my life. The lineage was the [Nyingma](https://www.rigpawiki.org/index.php?title=Nyingma) school of thought. 
 
 ## Education
@@ -22,7 +22,7 @@ MS - Computer Science Advised By [Dr. Craig Partridge](https://scholar.google.co
 ## Articles, Blogs, and lower case r research 
 
 - 🏙 [Joining Primitive](https://website-git-blog-jepsen-primitivexyz.vercel.app/blog/jepsen)
-- 🏼 [How to Deploy Smart Contracts on Hedera](https://dev.to/0xjepsen/how-to-deploy-cost-effective-smart-contracts-3a3l)
+- 📑 [How to Deploy Smart Contracts on Hedera](https://dev.to/0xjepsen/how-to-deploy-cost-effective-smart-contracts-3a3l)
 - ⚖️ [Cryptography in Distributed Ledgers](https://dev.to/0xjepsen/an-introduction-to-cryptography-in-distributed-ledger-technology-268l)
 
 ![](https://img.shields.io/github/stars/0xjepsen?style=social)
