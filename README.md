@@ -29,3 +29,9 @@ MS - Computer Science Advised By [Dr. Craig Partridge](https://scholar.google.co
 ![](https://img.shields.io/github/last-commit/0xjepsen/0xjepsen)
 ![](https://visitor-badge.laobi.icu/badge?page_id=0xjepsen)
 
+## My Favorite Books
+
+- 🧮 [Theory of Computation](https://www.mog.dog/files/SP2019/Sipser_Introduction.to.the.Theory.of.Computation.3E.pdf)
+- 🧹 [Clean Code](https://github.com/jnguyen095/clean-code/blob/master/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf)
+- 🪨 [The Myth of Sisyphus](https://people.brandeis.edu/~teuber/Albert_Camus_The_Myth_of_Sisyphus_Complete_Text_.pdf)
+- 🌸 [When Things Fall Apart](https://www.amazon.com/When-Things-Fall-Apart-Difficult/dp/1611803438)
