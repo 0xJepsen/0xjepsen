@@ -15,8 +15,8 @@ MS - Computer Science Advised By [Dr. Craig Partridge](https://scholar.google.co
 
 ## Capital R Research
 
-- 🚴🏼[Cyclic Redundancy Checks and Error Detection](https://github.com/0xJepsen/CRC_Research/blob/master/Cyclic_Redundancy_Checks_and_Error_Detection.pdf)
-- 🌴[Modeling TCP congesting with Tropical Algebra](https://github.com/0xJepsen/Max-PlusTCPModel/blob/master/Modeling_TCP_Congestion_with_Tropical_Algebra.pdf)
+- 🚴 [Cyclic Redundancy Checks and Error Detection](https://github.com/0xJepsen/CRC_Research/blob/master/Cyclic_Redundancy_Checks_and_Error_Detection.pdf)
+- 🌴 [Modeling TCP congesting with Tropical Algebra](https://github.com/0xJepsen/Max-PlusTCPModel/blob/master/Modeling_TCP_Congestion_with_Tropical_Algebra.pdf)
 
 
 ## Articles, Blogs, and lower case r research 
