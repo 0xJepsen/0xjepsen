@@ -17,7 +17,7 @@ I am currently studying for my Doctoral Degree under Dr [Amani Altarawneh](https
 
 ## Research
 
-- 🏦 [Replicating Portfolios: Constructing Permissionless Derivatives](https://primitive.xyz/rmm-derivatives.pdf)
+- 🏦 [Replicating Portfolios: Constructing Permissionless Derivatives](https://arxiv.org/abs/2205.09890)
 
 **Abstract**: The current design space of derivatives in Decentralized Finance (DeFi) relies heavily on oracle systems. Replicating market makers (RMMs) provide a mechanism for converting specific payoff functions to an associated Constant Function Market Makers (CFMMs). We leverage RMMs to replicate the approximate payoff of a Black-Scholes covered call option. RMM-01 is the first implementation of an on-chain expiring option mechanism that relies on arbitrage rather than an external oracle for price. We provide frameworks for derivative instruments and structured products achievable on-chain without relying on oracles. We construct long and binary options and briefly discuss perpetual covered call strategies commonly referred to as "theta vaults." Moreover, we introduce a procedure to eliminate liquidation risk in lending markets. The results suggest that CFMMs are essential for structured product design with minimized trust dependencies.
 
