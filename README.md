@@ -30,13 +30,6 @@ Max-Plus tropical algebra is the semi-ring structure over real numbers with oper
 
 **Abstract**: This study investigates the capabilities of Cyclic Redundancy \\ Checks(CRCs) to detect burst and random errors. Researchers have favored these error detection codes throughout the evolution of computing and have implemented them in communication protocols worldwide. CRCs are integrated into almost every device, in software and hardware. CRCs play a critical role in ensuring that our digital communication systems are efficient and erroneous packets are detected. Because the quantity of data generated and transmitted has increased over the last twenty years, we are more likely to encounter errors. It is important that the tools and methodologies used to ensure the integrity of digital communication systems are evaluated to handle higher frequencies of information. In this study, we explore the need to improve the capabilities of error-detecting codes to handle higher quantities of data by testing the error detection properties of CRC's in a restricted domain. 
 
-## Articles, Blogs, and lower case r research 
-
-- 🏙 [Joining Primitive](https://website-git-blog-jepsen-primitivexyz.vercel.app/blog/jepsen)
-- 📑 [How to Deploy Smart Contracts on Hedera](https://dev.to/0xjepsen/how-to-deploy-cost-effective-smart-contracts-3a3l)
-- ⚖️ [Cryptography in Distributed Ledgers](https://dev.to/0xjepsen/an-introduction-to-cryptography-in-distributed-ledger-technology-268l)
-
-
 ## My Favorite Books
 
 - 🧮 [Theory of Computation](https://www.mog.dog/files/SP2019/Sipser_Introduction.to.the.Theory.of.Computation.3E.pdf)
@@ -45,6 +38,11 @@ Max-Plus tropical algebra is the semi-ring structure over real numbers with oper
 - 🪨 [The Myth of Sisyphus](https://people.brandeis.edu/~teuber/Albert_Camus_The_Myth_of_Sisyphus_Complete_Text_.pdf)
 - 🌸 [When Things Fall Apart](https://www.amazon.com/When-Things-Fall-Apart-Difficult/dp/1611803438)
 
+## Articles, Blogs, and lower case r research 
+
+- 🏙 [Joining Primitive](https://website-git-blog-jepsen-primitivexyz.vercel.app/blog/jepsen)
+- 📑 [How to Deploy Smart Contracts on Hedera](https://dev.to/0xjepsen/how-to-deploy-cost-effective-smart-contracts-3a3l)
+- ⚖️ [Cryptography in Distributed Ledgers](https://dev.to/0xjepsen/an-introduction-to-cryptography-in-distributed-ledger-technology-268l)
 
 ![](https://img.shields.io/github/stars/0xjepsen?style=social)
 ![](https://img.shields.io/github/last-commit/0xjepsen/0xjepsen)
