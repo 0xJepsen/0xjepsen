@@ -2,7 +2,7 @@
 
 I’m a computer scientist passionate about high impact technology. My research interests lay at the intersection of mathematics, computer science, and philosophy. I value work ethic and tenacity above all else. 
 
-- 📖 I am reading [What Every Programing Should Know about Memory](https://www.gwern.net/docs/cs/2007-drepper.pdf), I am impressed so far.
+- 📖 I am reading [What Every Programing Should Know about Memory](https://www.gwern.net/docs/cs/2007-drepper.pdf).
 - 🏛 I am Currently working on Theta Vault simulations for capital efficiency in rebalance strategies
 - 🪷 I grew up off-the-grid in a Tibetan Budhist community for the first 13 years of my life. The lineage was the [Nyingma](https://www.rigpawiki.org/index.php?title=Nyingma) school of thought. 
 
