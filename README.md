@@ -26,7 +26,7 @@ I am currently studying for my Doctoral Degree under Dr [Amani Altarawneh](https
 
 **Tropical Algebra** 
 
-Latex integration with Markdown is still ironing our it's kinks.
+Latex integration with Markdown is still ironing out it's kinks.
 
 Max-Plus tropical algebra is the semi-ring structure over real numbers with operations $\oplus$ and $\otimes$ where the $\oplus$ operator performs the max operation such that $x \oplus y = max(x,y)$, and the $\otimes$ operator is the traditional addition operation such that $x \otimes y = x+y$ where $ x , y \in \mathbb{R} \cup \ { - \infty \ } $. More concretely think of the addition operator being replaced by the maximum operator and the multiplication operator being replaced by traditional addition. The zero element for $\otimes$ is $ \varepsilon \equiv - \infty $. Since the max-plus algebra is a semi ring there does not exist an inverse element for $\oplus$. Let $ R_{max} = R \cup \{ - \infty \} $, and let $ {R_{max}^{d, d}, \oplus, \otimes\} $ define the set of square matrices in this algebra of dimension $d \times d $. Extending the algebra to matrices we can define linear algebra in terms of $ \oplus $ and $ \otimes $. If $ A, B \in R_{max}^{m \times n} $, then $ A \oplus B_{i,j} $ = $ a_{i,j} \oplus b_{i,j} $ and $ A\otimes B_{ij} = \bigoplus_{1\leq k \leq d} A_{ik} \otimes B_{kj} = max_{1 \leq k \leq d}(a_{ik} \otimes b_{kj}) $
 
