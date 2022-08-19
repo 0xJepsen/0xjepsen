@@ -14,7 +14,9 @@ MS - Computer Science Advised By [Dr. Craig Partridge](https://scholar.google.co
   - 🔎 Evaluated the performance of unique generator polynomials for cyclic error detection
   - 📦 Evaluated the performance of tropical algebraic models for TCP and identified key assumptions and produced theoretical improvments
 
-I am currently studying for my Doctoral Degree under Dr [Amani Altarawneh](https://scholar.google.com/citations?user=CfjaUOsAAAAJ&hl=en) investigating the economic activity in distributed ledgers. 
+Ph.D. - Computer Science (Current)
+  - Advised by Dr [Amani Altarawneh](https://scholar.google.com/citations?user=CfjaUOsAAAAJ&hl=en) 
+  - Studying the economic activity in distributed ledgers. 
 
 ## Research
 
