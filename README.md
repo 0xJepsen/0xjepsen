@@ -1,6 +1,6 @@
 ### Hello, I'm 0xJepsen
 
-I’m a computer scientist passionate about high impact technology. My research interests lay at the intersection of mathematics, computer science, and philosophy. I value work ethic and tenacity above all else. 
+I’m a computer scientist passionate about high impact technology. My research interests lay at the intersection of mathematics, computer science, and philosophy. I value work ethic, tenacity, and kindness. 
 
 - 📖 I am reading [What Every Programing Should Know about Memory](https://www.gwern.net/docs/cs/2007-drepper.pdf).
 - 🏛 I am Currently working on Theta Vault simulations for capital efficiency in rebalance strategies
