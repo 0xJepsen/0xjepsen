@@ -3,7 +3,7 @@
 I’m a computer scientist passionate about high impact technology. My research interests lay at the intersection of mathematics, computer science, and philosophy. I value work ethic, tenacity, and kindness. 
 
 - 📖 I am reading [What Every Programing Should Know about Memory](https://www.gwern.net/docs/cs/2007-drepper.pdf).
-- 🏛 I am Currently working on Theta Vault simulations for capital efficiency in rebalance strategies
+- 🏛 I am Currently working on open source rust modules. 
 - 🪷 I grew up off-the-grid in a Tibetan Budhist community for the first 13 years of my life. The lineage was the [Nyingma](https://www.rigpawiki.org/index.php?title=Nyingma) school of thought. 
 
 ## Education
@@ -21,7 +21,7 @@ Ph.D. - Computer Science (Current)
 ## Research
 
 ### [Constant Function Market Makers](https://github.com/0xJepsen/CFMMs/blob/master/Jepsen_Darpa_Fall2022.pdf)
-**Abstract**: In Decentralized Finance (DeFi), the CFMM acts as a trusted escrow that automatically makes the market with its contained reserves. Trades are facilitated against the reserves of assets held in a CFMMs. Any actor can add or remove liquidity to the reserves at any moment to participate in making the market. Actors are incentivized to add liquidity to the reserves because they earn swap fees denoted by γ ∈ (0, 1]. The available actions to interact with a CFMM are determined by its convex trading function φ. Formally, a CFMM is an n-asset pool Rn +, and a trading function φ such that φ : Rn+ → R. Given any R, the value φ(R) = k is called the invariant. For example, suppose we have a collection of n assets (e.g., tokens) that can be exchanged for another. The reserves of n assets R ∈ Rn+ is called an n-asset liquidity pool where for every i ∈ {1, . . . , n}, the quantity Ri represents the quantity of asset i in the pool. Reserves change when trades are executed.
+**Abstract**: In Decentralized Finance (DeFi), the CFMM acts as a trusted escrow that automatically makes the market with its contained reserves. Trades are facilitated against the reserves of assets held in a CFMMs. Any actor can add or remove liquidity to the reserves at any moment to participate in making the market. Actors are incentivized to add liquidity to the reserves because they earn swap fees denoted by $\gamma \in (0,1]$. The available actions to interact with a CFMM are determined by its convex trading function $\varphi$. Formally, a CFMM is an $n$-asset pool $\mathbb{R}_n^+$, and a trading function $\varphi$ such that $\varphi: \mathbb{R}_n^+ → \mathbb{R}$. Given any R, the value $\varphi(R) = k$ is called the invariant. For example, suppose we have a collection of n assets (e.g., tokens) that can be exchanged for another. The reserves of n assets R ∈ Rn+ is called an n-asset liquidity pool where for every i ∈ {1, . . . , n}, the quantity Ri represents the quantity of asset i in the pool. Reserves change when trades are executed.
 
 ### 🏦 [Replicating Portfolios: Constructing Permissionless Derivatives](https://arxiv.org/abs/2205.09890)
 
