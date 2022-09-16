@@ -45,6 +45,7 @@ Max-Plus tropical algebra is the semi-ring structure over real numbers with oper
 
 ## Articles, Blogs, and lower case r research 
 
+- [Primitive Arbitrage](https://primitivernd.substack.com/p/primitive-arbitrage)
 - 🪞 [Sybil detection on DeFi protocols](https://primitive.mirror.xyz/DThGkT55cfzJmEhkPaQqze7GKvPXxrSNwCo2xiddeko)
 - 🏙 [Joining Primitive](https://website-git-blog-jepsen-primitivexyz.vercel.app/blog/jepsen)
 - 📑 [How to Deploy Smart Contracts on Hedera](https://dev.to/0xjepsen/how-to-deploy-cost-effective-smart-contracts-3a3l)
