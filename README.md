@@ -43,7 +43,7 @@ Max-Plus tropical algebra is the semi-ring structure over real numbers with oper
 - 🪨 [The Myth of Sisyphus](https://people.brandeis.edu/~teuber/Albert_Camus_The_Myth_of_Sisyphus_Complete_Text_.pdf)
 - 🌸 [When Things Fall Apart](https://www.amazon.com/When-Things-Fall-Apart-Difficult/dp/1611803438)
 
-## Articles, Blogs, and lower case r research 
+## Articles and Blogs 
 
 - [Primitive Arbitrage](https://primitivernd.substack.com/p/primitive-arbitrage)
 - 🪞 [Sybil detection on DeFi protocols](https://primitive.mirror.xyz/DThGkT55cfzJmEhkPaQqze7GKvPXxrSNwCo2xiddeko)
