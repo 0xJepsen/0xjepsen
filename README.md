@@ -1,6 +1,6 @@
 ### Hello, I'm 0xJepsen
 
-I’m a computer scientist passionate about high impact technology. My research interests lay at the intersection of mathematics, computer science, and philosophy. I value work ethic, tenacity, and kindness. When it comes to writing software I enjoy low level pre-compiled programing laguages. I enjoy being as close to the bare metak as I can get. It is for this reason that I have depricated my website in favor of my github. 
+I’m a computer scientist passionate about high impact technology. My research interests lay at the intersection of mathematics, computer science, and philosophy. I value work ethic, tenacity, and kindness. When it comes to writing software I enjoy low level pre-compiled programing laguages. I enjoy being as close to the metal as I can get. It is for this reason that I have depricated my website in favor of my github. 
 
 - 📖 I am reading [No Rules Rules](https://www.norulesrules.com/).
 - 🏛 I am Currently working on building AMMs that capture arbitrage revenue. 
