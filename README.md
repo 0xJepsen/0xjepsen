@@ -2,7 +2,7 @@
 
 I’m a computer scientist passionate about high impact technology. My research interests lay at the intersection of mathematics, computer science, and philosophy. I value work ethic, tenacity, and kindness. When it comes to writing software I enjoy low level pre-compiled programing laguages. I enjoy being as close to the metal as I can get. It is for this reason that I have depricated my website in favor of my github. 
 
-- 📖 I am reading [No Rules Rules](https://www.norulesrules.com/).
+- 📖 I am reading [Hooked]([https://www.norulesrules.com/](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788/ref=sr_1_1?crid=BD92KKAWTTD3&keywords=hooked+book+nir+eyal&sprefix=hooked+book+nir%2Caps%2C191&sr=8-1)).
 - 🏛 I am Currently working on building AMMs that capture arbitrage revenue. 
 - 🪷 I grew up off-the-grid in a Tibetan Budhist community for the first 13 years of my life. The lineage was the [Nyingma](https://www.rigpawiki.org/index.php?title=Nyingma) school of thought. 
 
