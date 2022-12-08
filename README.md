@@ -18,6 +18,28 @@ Ph.D. - Computer Science
   - Advised by Dr [Amani Altarawneh](https://scholar.google.com/citations?user=CfjaUOsAAAAJ&hl=en) 
   - Studying the economic activity in distributed ledgers. 
 
+## Experience
+
+### Senior Research Engineer April 2022 - Present
+[Primitive Bits](https://github.com/primitivefinance)
+- As a research engineer, I work on the research and development of products aimed to improve the user experience DeFi. My responsibilities range from writing public facing technical content, to engineering. Primitive has recently closed a [series A fundraising round for \$9M](https://www.theblock.co/post/164248/primitive-raises-9-million-to-build-amm-discovery-platform)
+    
+### Assistant Researcher May 2021 - May 2022
+Colorado State University
+- While completing my graduate studies, I was supported to investigate a [semi-rings abilities to model TCP congestion](https://github.com/0xJepsen/Max-PlusTCPModel/blob/master/Modeling_TCP_Congestion_with_Tropical_Algebra.pdf). I performed my own experiments with discrete event simulators. I extended the model to account for multiple network flows.
+  
+### Developer Evanglist July 2021 - April 2022
+[Hedera Hashgraph](https://github.com/hashgraph)
+- I produced written and recorded content to educate software engineers on how to use our software development kits and leverage state of the art consensus mechanisms. I taught software engineers how to write and deploy their smart contracts on Hedera to the [Java Besu EVM](https://github.com/hyperledger/besu). 
+  
+### Systems Administrator Aug 2020 - Dec 2021
+Colorado State University
+- I assisted the systems team with administration of over 500 Linux workstations. I built automation scripts, recorded offline backups, and managed security upgrades. I performed database management using MariaDB, PostgreSQL and MongoDB. I also provided technical support for local network (LAN) and Internet connectivity issues. I Optimized network performance to limit work disruptions within the college.
+
+### Cyber Security Intern Jan 2017 - Jan 2018
+Academic Computing and Networking services
+- I Performed research and development of distributed ledger technology to improve the security of our University networks. I Presented on identity authentication and phishing attacks for Cyber Security Awareness Week. I Created voting security software (Attica) using distributed ledger technology, currently piloted at the university.
+
 ## Research
 
 ### [Constant Function Market Makers](https://github.com/0xJepsen/CFMMs/blob/master/Jepsen_Darpa_Fall2022.pdf)
