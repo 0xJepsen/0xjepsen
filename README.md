@@ -8,15 +8,15 @@ I’m a computer scientist passionate about high impact technology. My research 
 
 ## Education
 
-BS - Mathematics and Philosophy 
+Ph.D. - Computer Science (Current)
+  - Advised by Dr [Amani Altarawneh](https://scholar.google.com/citations?user=CfjaUOsAAAAJ&hl=en) 
+  - Studying the economic activity in distributed ledgers. 
 
 MS - Computer Science Advised By [Dr. Craig Partridge](https://scholar.google.com/citations?user=f-E5nFEAAAAJ&hl=en&oi=ao)
   - 🔎 Evaluated the performance of unique generator polynomials for cyclic error detection
   - 📦 Evaluated the performance of tropical algebraic models for TCP and identified key assumptions and produced theoretical improvments
 
-Ph.D. - Computer Science
-  - Advised by Dr [Amani Altarawneh](https://scholar.google.com/citations?user=CfjaUOsAAAAJ&hl=en) 
-  - Studying the economic activity in distributed ledgers. 
+BS - Mathematics and Philosophy 
 
 ## Experience
 
