@@ -8,7 +8,7 @@ I’m a computer scientist passionate about high impact technology. My research 
 
 ## Education
 
-Ph.D. - Computer Science (Current)
+Ph.D. - Computer Science (On Leave)
   - Advised by Dr [Amani Altarawneh](https://scholar.google.com/citations?user=CfjaUOsAAAAJ&hl=en) 
   - Studying the economic activity in distributed ledgers. 
 
