@@ -73,6 +73,7 @@ Academic Computing and Networking services
 - 📑 [How to Deploy Smart Contracts on Hedera](https://dev.to/0xjepsen/how-to-deploy-cost-effective-smart-contracts-3a3l)
 - ⚖️ [Cryptography in Distributed Ledgers](https://dev.to/0xjepsen/an-introduction-to-cryptography-in-distributed-ledger-technology-268l)
 
+<a href="https://twitter.com/0xjepsen" ><img src="https://img.shields.io/twitter/follow/0xjepsen.svg?style=social" /> </a>
 ![](https://img.shields.io/github/stars/0xjepsen?style=social)
 ![](https://img.shields.io/github/last-commit/0xjepsen/0xjepsen)
 ![](https://visitor-badge.laobi.icu/badge?page_id=0xjepsen)
