@@ -5,7 +5,7 @@ I’m a computer scientist passionate about high impact technology. My research 
 - 📖 I am reading [Hackers and painters](https://en.wikipedia.org/wiki/Hackers_%26_Painters).
 - 🏛 I am Currently working on [Arbiter](https://github.com/primitivefinance/arbiter). 
 - 🪷 I grew up off-the-grid in a Tibetan Budhist community for the first 13 years of my life. The lineage was the [Nyingma](https://www.rigpawiki.org/index.php?title=Nyingma) school of thought. 
-- [Circulum Vitea]()
+- [Cirriculum Vitae](/Cirriculum_Vitae.pdf)
 
 ## Things I have written
 
