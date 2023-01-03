@@ -1,6 +1,6 @@
 ### Hello, I'm 0xJepsen
 
-I’m a computer scientist passionate about high impact technology. My research interests lay at the intersection of mathematics, computer science, and philosophy. I value work ethic, tenacity, and kindness. When it comes to writing software I enjoy low level pre-compiled programing laguages. I enjoy being as close to the metal as I can get. It is for this reason that I have depricated my website in favor of my github. 
+I’m a computer scientist passionate about high impact technology. My research interests lay at the intersection of mathematics, computer science, and philosophy. I value work ethic, tenacity, and kindness. When it comes to writing software I enjoy low level pre-compiled programing laguages. I am interested in infrastucture, networking, and industrial control systems.
 
 - 📖 I am reading [Hackers and painters](https://en.wikipedia.org/wiki/Hackers_%26_Painters).
 - 🏛 I am Currently working on [Arbiter](https://github.com/primitivefinance/arbiter). 
