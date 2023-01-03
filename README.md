@@ -20,7 +20,7 @@ Some things about me:
 - 📑 [How to Deploy Smart Contracts on Hedera](https://dev.to/0xjepsen/how-to-deploy-cost-effective-smart-contracts-3a3l)
 - ⚖️ [Cryptography in Distributed Ledgers](https://dev.to/0xjepsen/an-introduction-to-cryptography-in-distributed-ledger-technology-268l)
 
-## Things I recomend to read
+## Things I recommend to read
 
 - 🧮 [Theory of Computation](https://www.mog.dog/files/SP2019/Sipser_Introduction.to.the.Theory.of.Computation.3E.pdf)
 - 🧑🏼‍🍳 [Numerical Recipes](https://e-maxx.ru/bookz/files/numerical_recipes.pdf)
