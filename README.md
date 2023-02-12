@@ -16,8 +16,6 @@ Some things about me:
 - 🚴 [Cyclic Redundancy Checks and Error Detection](https://github.com/0xJepsen/CRC_Research)
 - [Primitive Arbitrage](https://primitivernd.substack.com/p/primitive-arbitrage)
 - 🪞 [Sybil detection on DeFi protocols](https://primitive.mirror.xyz/DThGkT55cfzJmEhkPaQqze7GKvPXxrSNwCo2xiddeko)
-- 🏙 [Joining Primitive](https://website-git-blog-jepsen-primitivexyz.vercel.app/blog/jepsen)
-- 📑 [How to Deploy Smart Contracts on Hedera](https://dev.to/0xjepsen/how-to-deploy-cost-effective-smart-contracts-3a3l)
 - ⚖️ [Cryptography in Distributed Ledgers](https://dev.to/0xjepsen/an-introduction-to-cryptography-in-distributed-ledger-technology-268l)
 
 ## Things I recommend to read
