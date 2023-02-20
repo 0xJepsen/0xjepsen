@@ -1,6 +1,6 @@
 ### Hello, I'm 0xJepsen
 
-I’m a research egnineer passionate about high impact technology working at [Primitive](https://github.com/primitivefinance). My interests lay at the intersection of mathematics, computer science, and philosophy. I value work ethic, tenacity, and kindness. When it comes to writing software I enjoy low level pre-compiled programing laguages. I am interested in infrastucture, networking, and industrial control systems.
+I’m a research egnineer passionate about high impact technology working at [Primitive](https://github.com/primitivefinance). My interests lay at the intersection of mathematics, computer science, and philosophy. I value work ethic, tenacity, and kindness. I enjoy low level programing and cats. I am interested in Category Thoery, Networking, and Software Architecture.
 
 Some things about me:
 - 📖 I am reading [Hackers and Painters](https://www.amazon.com/Hackers-Painters-Big-Ideas-Computer/dp/B08Z4FHH3T). Recomend a book to me [here](https://github.com/0xJepsen/Books).
