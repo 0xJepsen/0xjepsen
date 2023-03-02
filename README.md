@@ -10,6 +10,7 @@ Some things about me:
 
 ## Things I have written
 
+- [Finacial Virtual Machines](https://site-git-waylon-protfolioblog-primitivexyz.vercel.app/papers/yellow.pdf)
 - [Solstat: A statistical approximation library](https://www.primitive.xyz/posts/solstat)
 - [Constant Function Market Makers](https://github.com/0xJepsen/CFMMs/blob/master/Jepsen_Darpa_Fall2022.pdf)
 - 🏦 [Replicating Portfolios: Constructing Permissionless Derivatives](https://arxiv.org/abs/2205.09890)
