@@ -6,7 +6,7 @@ Some things about me:
 - 📖 I am reading [The Surrender Experiment](https://www.goodreads.com/book/show/23164946-the-surrender-experiment). Recommend a book to me [here](https://github.com/0xJepsen/Books).
 - 🏛 I am Currently working on [Arbiter](https://github.com/primitivefinance/arbiter). 
 - 🪷 I grew up off-the-grid in a Tibetan Buddhist community for the first 13 years. The lineage was the [Nyingma](https://www.rigpawiki.org/index.php?title=Nyingma) school of thought. 
-- If you want to know my professional background, here is my [Cirriculum Vitae](/Cirriculum_Vitae.pdf)
+- If you want to know my professional background, here is my [CV](/Cirriculum_Vitae.pdf)
 
 ## Things I have written
 
