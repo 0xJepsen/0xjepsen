@@ -7,7 +7,6 @@ Some things about me:
 - 🏛 I am Currently working on [Arbiter](https://github.com/primitivefinance/arbiter). 
 - 🪷 I grew up off-the-grid in a Tibetan Buddhist community for the first 13 years. The lineage was the [Nyingma](https://www.rigpawiki.org/index.php?title=Nyingma) school of thought. 
 - If you want to know my professional background, here is my [CV](/Cirriculum_Vitae.pdf)
-- [Post Authorship](https://cryptascend.org/pages/shared_authorship.html)
 - [Object Oriented Ego](https://cryptascend.org/pages/object_oriented_ego.html)
 
 ## Things I have written
