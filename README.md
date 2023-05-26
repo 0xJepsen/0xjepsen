@@ -31,5 +31,4 @@ Some things about me:
 
 <!-- <a href="https://twitter.com/0xjepsen" ><img src="https://img.shields.io/twitter/follow/0xjepsen.svg?style=social" /> </a> -->
 ![](https://img.shields.io/github/stars/0xjepsen?style=social)
-![](https://img.shields.io/github/last-commit/0xjepsen/0xjepsen)
 ![](https://visitor-badge.laobi.icu/badge?page_id=0xjepsen)
