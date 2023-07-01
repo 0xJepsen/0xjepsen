@@ -1,6 +1,6 @@
 ### Hello, I'm Waylon
 
-I’m a research engineer passionate about high-impact technology at [Primitive](https://github.com/primitivefinance). My interests lie at the intersection of mathematics, computer science, and philosophy. I value tenacious curiosity, fearless authenticity, and empathy. I enjoy low-level programming and cats. I am interested in Category Theory, Networking, and Software Architecture.
+I’m a research engineer passionate about high-impact technology at [Primitive](https://github.com/primitivefinance). My interests lie at the intersection of mathematics, computer science, and philosophy. I value tenacious curiosity, fearless authenticity, and empathy. I enjoy low-level programming and cats. I am interested in functional programing, rust, and Software Architecture.
 
 Some things about me:
 - 📖 I am reading [Gödel, Escher, Bach](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach). Recommend a book to me [here](https://github.com/0xJepsen/Books).
