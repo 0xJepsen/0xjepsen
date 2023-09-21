@@ -1,4 +1,4 @@
-### Hello, I'm Waylon
+### Hello, I'm Jepsen
 
 I’m a research engineer passionate about high-impact technology at [Primitive](https://github.com/primitivefinance). My interests lie at the intersection of mathematics, computer science, and philosophy. I value tenacious curiosity, fearless authenticity, and empathy. I enjoy low-level programming and cats. I am interested in functional programing, rust, and Software Architecture.
 
