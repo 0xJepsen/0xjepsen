@@ -7,10 +7,12 @@ Some things about me:
 - 🏛 I am Currently working on [Arbiter](https://github.com/primitivefinance/arbiter). 
 - 🪷 I grew up off-the-grid in a Tibetan Buddhist community for the first 13 years. The lineage was the [Nyingma](https://www.rigpawiki.org/index.php?title=Nyingma) school of thought. 
 - If you want to know my professional background, here is my [CV](/Cirriculum_Vitae.pdf)
-- [Object Oriented Ego](https://cryptascend.org/pages/object_oriented_ego.html)
+- Why [free software is important](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
+
 
 ## Things I have written
 
+- [Object Oriented Ego](https://cryptascend.org/pages/object_oriented_ego.html)
 - [Financial Virtual Machine](https://www.primitive.xyz/papers/yellow.pdf)
 - [Solstat: A statistical approximation library](https://www.primitive.xyz/posts/solstat)
 - [Constant Function Market Makers](https://github.com/0xJepsen/CFMMs/blob/master/Jepsen_Darpa_Fall2022.pdf)
