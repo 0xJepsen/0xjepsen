@@ -12,6 +12,7 @@ Some things about me:
 
 ## Things I have written
 
+- [Poseidon](https://autoparallel.github.io/)
 - [Object Oriented Ego](https://cryptascend.org/pages/object_oriented_ego.html)
 - [Financial Virtual Machine](https://www.primitive.xyz/papers/yellow.pdf)
 - [Solstat: A statistical approximation library](https://www.primitive.xyz/posts/solstat)
@@ -29,8 +30,6 @@ Some things about me:
 - 🧑🏼‍🍳 [Numerical Recipes](https://e-maxx.ru/bookz/files/numerical_recipes.pdf)
 - 🧹 [Clean Code](https://github.com/jnguyen095/clean-code/blob/master/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf)
 - 🪨 [The Myth of Sisyphus](https://people.brandeis.edu/~teuber/Albert_Camus_The_Myth_of_Sisyphus_Complete_Text_.pdf)
-- 🌸 [When Things Fall Apart](https://www.amazon.com/When-Things-Fall-Apart-Difficult/dp/1611803438)
 
-<!-- <a href="https://twitter.com/0xjepsen" ><img src="https://img.shields.io/twitter/follow/0xjepsen.svg?style=social" /> </a> -->
 ![](https://img.shields.io/github/stars/0xjepsen?style=social)
 ![](https://visitor-badge.laobi.icu/badge?page_id=0xjepsen)
