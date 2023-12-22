@@ -14,6 +14,7 @@ Some things about me:
 
 - [Poseidon](https://autoparallel.github.io/)
 - [Object Oriented Ego](https://cryptascend.org/pages/object_oriented_ego.html)
+- [Analysis of RMM-01 Market Maker](https://arxiv.org/pdf/2310.14320.pdf)
 - [Financial Virtual Machine](https://www.primitive.xyz/papers/yellow.pdf)
 - [Solstat: A statistical approximation library](https://www.primitive.xyz/posts/solstat)
 - [Constant Function Market Makers](https://github.com/0xJepsen/CFMMs/blob/master/Jepsen_Darpa_Fall2022.pdf)
