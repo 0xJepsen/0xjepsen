@@ -11,7 +11,7 @@ Some things about me:
 ## Things I have written
 
 - [Poseidon](https://autoparallel.github.io/)
-- [Object Oriented Ego]([https://cryptascend.org/pages/object_oriented_ego.html](https://www.networkspirits.com/blog/first/))
+- [Object Oriented Ego](https://www.networkspirits.com/blog/first/)
 - [Financial Virtual Machine](https://www.primitive.xyz/papers/yellow.pdf)
 - [Solstat: A statistical approximation library](https://www.primitive.xyz/posts/solstat)
 - [Constant Function Market Makers](https://github.com/0xJepsen/CFMMs/blob/master/Jepsen_Darpa_Fall2022.pdf)
