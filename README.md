@@ -19,9 +19,9 @@ Some things about me:
 
 ## Things I recommend to read
 
-- 🧠 [Breaking Smart](https://breakingsmart.com/en/about/)
-- 🧮 [The Brutalist Programing Manafesto](http://www.call-with-current-continuation.org/articles/brutalist-manifesto.txt)
-- 🧑🏼‍🍳 [TigerStyle](https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md)
+- 🌊 [Breaking Smart](https://breakingsmart.com/en/about/)
+- 🐲 [The Brutalist Programing Manafesto](http://www.call-with-current-continuation.org/articles/brutalist-manifesto.txt)
+- 🐯 [TigerStyle](https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md)
 - 🪨 [Grug Brain Dev](https://grugbrain.dev/)
 
 ![](https://img.shields.io/github/stars/0xjepsen?style=social)
