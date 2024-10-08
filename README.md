@@ -23,9 +23,9 @@ Some things about me:
 ## Things I recommend to read
 
 - 🧠 [Breaking Smart](https://breakingsmart.com/en/about/)
-- 🧮 [Theory of Computation](https://docs.google.com/viewer?a=v&pid=sites&srcid=dGhhcGFyLmVkdXx1Y3MtNzAxfGd4OjZmYzU3ZjM0N2ZmYTlkYzE)
-- 🧑🏼‍🍳 [Numerical Recipes](https://e-maxx.ru/bookz/files/numerical_recipes.pdf)
-- 🪨 [The Myth of Sisyphus](https://people.brandeis.edu/~teuber/Albert_Camus_The_Myth_of_Sisyphus_Complete_Text_.pdf)
+- 🧮 [The Brutalist Programing Manafesto](http://www.call-with-current-continuation.org/articles/brutalist-manifesto.txt)
+- 🧑🏼‍🍳 [TigerStyle](https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md)
+- 🪨 [Grug Brain Dev](https://grugbrain.dev/)
 
 ![](https://img.shields.io/github/stars/0xjepsen?style=social)
 ![](https://visitor-badge.laobi.icu/badge?page_id=0xjepsen)
