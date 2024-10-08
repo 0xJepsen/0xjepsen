@@ -14,9 +14,6 @@ Some things about me:
 - [Poseidon](https://autoparallel.github.io/)
 - [Object Oriented Ego](https://www.networkspirits.com/blog/first/)
 - [Financial Virtual Machine](https://www.primitive.xyz/papers/yellow.pdf)
-- [Solstat: A statistical approximation library](https://www.primitive.xyz/posts/solstat)
-- [Constant Function Market Makers](https://github.com/0xJepsen/CFMMs/blob/master/Jepsen_Darpa_Fall2022.pdf)
-- [Replicating Portfolios: Constructing Permissionless Derivatives](https://arxiv.org/abs/2205.09890)
 - [Modeling TCP congesting with Tropical Algebra](https://github.com/0xJepsen/TropicalAlgebraicTCPModel)
 - [Cyclic Redundancy Checks and Error Detection](https://github.com/0xJepsen/CRC_Research/blob/master/Cyclic_Redundancy_Checks_and_Error_Detection.pdf)
 
