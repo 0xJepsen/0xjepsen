@@ -1,6 +1,6 @@
 ### Hello, I'm Jepsen
 
-I’m a research engineer passionate about high-impact technology. My interests lie at the intersection of mathematics, computer science, and philosophy. I value curiosity, authenticity, and empathy. I enjoy low-level programming and cryptography. I am interested in thoery of software and mind. 
+I’m a research engineer passionate about high-impact technology. My interests lie at the intersection of mathematics, computer science, and philosophy. I value curiosity, authenticity. I enjoy low-level programming and cryptography. I am interested in thoery of software and mind. 
 
 Some things about me:
 - I grew up off-the-grid in a Tibetan Buddhist community for the first 13 years. The lineage was the [Nyingma](https://www.rigpawiki.org/index.php?title=Nyingma) school of thought. 
