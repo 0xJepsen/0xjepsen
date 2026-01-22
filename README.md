@@ -5,7 +5,7 @@ I’m a research engineer passionate about high-impact technology. My interests 
 Some things about me:
 - I grew up off-the-grid in a Tibetan Buddhist community for the first 13 years. The lineage was the [Nyingma](https://www.rigpawiki.org/index.php?title=Nyingma) school of thought. 
 - If you want to know my professional background, here is my [CV](Curriculum_Vitae.pdf)
-- This is a [sound](https://open.spotify.com/playlist/46RCnN71QYTnTeCI61MPbl?si=a5bedc5ccf9d495a) I followed.
+- This is a [sound](https://open.spotify.com/playlist/2RLQJF6kVph3SrTOmhIbpI?si=45762f096d7546fb) I followed.
 
 ## Things I recommend to read
 
