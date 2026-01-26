@@ -11,8 +11,8 @@ Some things about me:
 
 - 🌊 [Power of Ideas](https://www.networkspirits.com/blog/power-of-ideas/)
 - 🐲 [State of the world (2026)](https://www.networkspirits.com/blog/state-of-the-world/)
-- 🐯 [Epistim Honesty](https://www.networkspirits.com/blog/knowing/)
-- 🪨 [COGS Rules Everything Around Me](https://www.networkspirits.com/blog/cogs/)
+- 🐯 [Epistimic Honesty](https://www.networkspirits.com/blog/knowing/)
+- ⚙️ [COGS Rules Everything Around Me](https://www.networkspirits.com/blog/cogs/)
 
 ![](https://img.shields.io/github/stars/0xjepsen?style=social)
 ![](https://visitor-badge.laobi.icu/badge?page_id=0xjepsen)
