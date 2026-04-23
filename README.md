@@ -23,7 +23,7 @@ Some things I've done:
 - 🔭 [The Thing About Knowing Things](https://www.networkspirits.com/blog/knowing/) — Epistemology, Gödel, and the Yoneda lemma
 - 🌊 [The Power of Ideas](https://www.networkspirits.com/blog/power-of-ideas/) — Information dissemination and algorithmic influence
 
-If you want to know my professional background, here is my [CV](/waylonjepsen/waylonjepsen/blob/master/Curriculum_Vitae.pdf)
+If you want to know my professional background, here is my [CV](Curriculum%20Vitae.pdf)
 
 ![](https://img.shields.io/github/stars/0xjepsen?style=social)
 ![](https://visitor-badge.laobi.icu/badge?page_id=0xjepsen)
